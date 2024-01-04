@@ -37,5 +37,5 @@ npm start
 
 ## Screenshots
 
-![Screenshot da Aplicação]()
+![Screenshot da Aplicação](https://github.com/MarcosAbreu/desafio-dio-reactdev-wiki/blob/main/screenshot/screenshot-wiki.PNG)
 
